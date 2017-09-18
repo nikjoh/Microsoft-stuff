@@ -1,0 +1,22 @@
+﻿@model RegisterVM
+@{
+    ViewBag.Title = "Register";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="register">
+    <form asp-controller="Account" asp-action="Register">
+        <label asp-for="UserName"></label>
+        <br />
+        <input type="text" asp-for="UserName" />
+        <span asp-validation-for="UserName"></span>
+        <br />
+        <label asp-for="Password"></label>
+        <br />
+        <input type="text" asp-for="Password" />
+        <span asp-validation-for="Password"></span>
+        <br />
+        <input type="submit" value="Register" />
+    </form>
+
+</div>

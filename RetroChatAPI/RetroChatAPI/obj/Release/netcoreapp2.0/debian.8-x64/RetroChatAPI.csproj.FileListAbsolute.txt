@@ -1,0 +1,14 @@
+C:\Users\Administrator\Source\Repos\RetroChatAPI\RetroChatAPI\bin\Release\netcoreapp2.0\debian.8-x64\libhostpolicy.so
+C:\Users\Administrator\Source\Repos\RetroChatAPI\RetroChatAPI\bin\Release\netcoreapp2.0\debian.8-x64\libhostfxr.so
+C:\Users\Administrator\Source\Repos\RetroChatAPI\RetroChatAPI\bin\Release\netcoreapp2.0\debian.8-x64\RetroChatAPI
+C:\Users\Administrator\Source\Repos\RetroChatAPI\RetroChatAPI\bin\Release\netcoreapp2.0\debian.8-x64\RetroChatAPI.deps.json
+C:\Users\Administrator\Source\Repos\RetroChatAPI\RetroChatAPI\bin\Release\netcoreapp2.0\debian.8-x64\RetroChatAPI.runtimeconfig.json
+C:\Users\Administrator\Source\Repos\RetroChatAPI\RetroChatAPI\bin\Release\netcoreapp2.0\debian.8-x64\RetroChatAPI.runtimeconfig.dev.json
+C:\Users\Administrator\Source\Repos\RetroChatAPI\RetroChatAPI\bin\Release\netcoreapp2.0\debian.8-x64\RetroChatAPI.dll
+C:\Users\Administrator\Source\Repos\RetroChatAPI\RetroChatAPI\bin\Release\netcoreapp2.0\debian.8-x64\RetroChatAPI.pdb
+C:\Users\Administrator\Source\Repos\RetroChatAPI\RetroChatAPI\obj\Release\netcoreapp2.0\debian.8-x64\RetroChatAPI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\RetroChatAPI\RetroChatAPI\obj\Release\netcoreapp2.0\debian.8-x64\RetroChatAPI.AssemblyInfoInputs.cache
+C:\Users\Administrator\Source\Repos\RetroChatAPI\RetroChatAPI\obj\Release\netcoreapp2.0\debian.8-x64\RetroChatAPI.AssemblyInfo.cs
+C:\Users\Administrator\Source\Repos\RetroChatAPI\RetroChatAPI\obj\Release\netcoreapp2.0\debian.8-x64\RetroChatAPI.dll
+C:\Users\Administrator\Source\Repos\RetroChatAPI\RetroChatAPI\obj\Release\netcoreapp2.0\debian.8-x64\RetroChatAPI.pdb
+c:\users\administrator\Source\Repos\RetroChatAPI\RetroChatAPI\obj\Release\netcoreapp2.0\debian.8-x64\RetroChatAPI.csprojResolveAssemblyReference.cache

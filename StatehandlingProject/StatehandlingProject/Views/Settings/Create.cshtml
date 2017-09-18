@@ -1,0 +1,19 @@
+﻿@model CreateSettingsVM
+@{ 
+    ViewBag.Title = "Create";
+}
+
+<h1>Hello Create!</h1>
+<form asp-controller="Settings" asp-action="Create">
+    <label asp-for="Email"></label>
+    <br />
+    <input asp-for="Email" />
+    <span asp-validation-for="Email"></span>
+    <br />
+    <label asp-for="CompanyName"></label>
+    <br />
+    <input asp-for="CompanyName" />
+    <span asp-validation-for="CompanyName"></span>
+    <br />
+    <input type="submit" value="OK" />
+</form>

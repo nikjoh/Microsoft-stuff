@@ -1,0 +1,22 @@
+﻿@using JqueryProject.Models
+@model IndexVM[]
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Jquery Project</title>
+</head>
+<body>
+    <h1>Customer list</h1>
+    <ul>
+        @foreach (var item in Model)
+        {
+            <li class="list-item" customer-id="@item.Id">@item.Name</li>
+        }
+    </ul>
+    <div id="log"></div>
+    <input type="button" id="customer-button" value="Hämta alla kunder" />
+    <div id="nrCustomers"></div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="~/js/code.js"></script>
+</body>
+</html>

@@ -1,0 +1,15 @@
+﻿@{
+    ViewBag.Title = "Home";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="home">
+    <div class="home-info">
+        <div class="home-profile"><img ng-src="{{userInfo.Image}}" /></div>
+        <span>{{userInfo.UserName}}</span>
+    </div>
+    <hr />
+    <div class="home-posts" ng-repeat="item in posts track by $index">
+        <a ng-href="post" ng-click="setPost(userInfo.ID, item.ID)"><img class="home-posts-img" ng-src="{{item.Image}}" /></a>
+    </div>
+    <pre class="debug">{{data | json}}</pre>
+</div>

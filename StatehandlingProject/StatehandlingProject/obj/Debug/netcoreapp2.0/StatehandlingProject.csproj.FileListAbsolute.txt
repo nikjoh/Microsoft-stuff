@@ -1,0 +1,11 @@
+c:\users\administrator\Source\Repos\StatehandlingProject\StatehandlingProject\bin\Debug\netcoreapp2.0\StatehandlingProject.deps.json
+c:\users\administrator\Source\Repos\StatehandlingProject\StatehandlingProject\bin\Debug\netcoreapp2.0\StatehandlingProject.runtimeconfig.json
+c:\users\administrator\Source\Repos\StatehandlingProject\StatehandlingProject\bin\Debug\netcoreapp2.0\StatehandlingProject.runtimeconfig.dev.json
+c:\users\administrator\Source\Repos\StatehandlingProject\StatehandlingProject\bin\Debug\netcoreapp2.0\StatehandlingProject.dll
+c:\users\administrator\Source\Repos\StatehandlingProject\StatehandlingProject\bin\Debug\netcoreapp2.0\StatehandlingProject.pdb
+c:\users\administrator\Source\Repos\StatehandlingProject\StatehandlingProject\obj\Debug\netcoreapp2.0\StatehandlingProject.csprojResolveAssemblyReference.cache
+c:\users\administrator\Source\Repos\StatehandlingProject\StatehandlingProject\obj\Debug\netcoreapp2.0\StatehandlingProject.csproj.CoreCompileInputs.cache
+c:\users\administrator\Source\Repos\StatehandlingProject\StatehandlingProject\obj\Debug\netcoreapp2.0\StatehandlingProject.AssemblyInfoInputs.cache
+c:\users\administrator\Source\Repos\StatehandlingProject\StatehandlingProject\obj\Debug\netcoreapp2.0\StatehandlingProject.AssemblyInfo.cs
+c:\users\administrator\Source\Repos\StatehandlingProject\StatehandlingProject\obj\Debug\netcoreapp2.0\StatehandlingProject.dll
+c:\users\administrator\Source\Repos\StatehandlingProject\StatehandlingProject\obj\Debug\netcoreapp2.0\StatehandlingProject.pdb

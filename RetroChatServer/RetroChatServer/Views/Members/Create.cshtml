@@ -1,0 +1,22 @@
+﻿@{
+    ViewBag.Title = "Home";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var platform = ViewBag.Platform;
+}
+<div class="post">
+    <img id="postImage" />
+    <br />
+    <input type="text" id="postText" />
+    <input type="button"  onclick="camera.takePicture();" value="Share" />
+</div>
+<div>   
+    Found cookie platform to be: <strong>@platform</strong>
+</div>
+
+@section scripts
+    {
+    
+<script src="~/cordovadist/@platform/cordova.js"></script>
+<script src="~/js/camera.js"></script>
+}
+

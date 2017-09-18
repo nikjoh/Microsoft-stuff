@@ -1,0 +1,11 @@
+c:\users\administrator\Source\Repos\RetroChatServer\RetroChatServer\bin\Debug\netcoreapp2.0\RetroChatServer.deps.json
+c:\users\administrator\Source\Repos\RetroChatServer\RetroChatServer\bin\Debug\netcoreapp2.0\RetroChatServer.runtimeconfig.json
+c:\users\administrator\Source\Repos\RetroChatServer\RetroChatServer\bin\Debug\netcoreapp2.0\RetroChatServer.runtimeconfig.dev.json
+c:\users\administrator\Source\Repos\RetroChatServer\RetroChatServer\bin\Debug\netcoreapp2.0\RetroChatServer.dll
+c:\users\administrator\Source\Repos\RetroChatServer\RetroChatServer\bin\Debug\netcoreapp2.0\RetroChatServer.pdb
+c:\users\administrator\Source\Repos\RetroChatServer\RetroChatServer\obj\Debug\netcoreapp2.0\RetroChatServer.csprojResolveAssemblyReference.cache
+c:\users\administrator\Source\Repos\RetroChatServer\RetroChatServer\obj\Debug\netcoreapp2.0\RetroChatServer.csproj.CoreCompileInputs.cache
+c:\users\administrator\Source\Repos\RetroChatServer\RetroChatServer\obj\Debug\netcoreapp2.0\RetroChatServer.AssemblyInfoInputs.cache
+c:\users\administrator\Source\Repos\RetroChatServer\RetroChatServer\obj\Debug\netcoreapp2.0\RetroChatServer.AssemblyInfo.cs
+c:\users\administrator\Source\Repos\RetroChatServer\RetroChatServer\obj\Debug\netcoreapp2.0\RetroChatServer.dll
+c:\users\administrator\Source\Repos\RetroChatServer\RetroChatServer\obj\Debug\netcoreapp2.0\RetroChatServer.pdb

@@ -1,0 +1,5 @@
+C:\Users\Administrator\Source\Repos\RetroChatServer\RetroChatServer
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=RetroChatServer
+--content-root=C:\Users\Administrator\Source\Repos\RetroChatServer\RetroChatServer
+--file=

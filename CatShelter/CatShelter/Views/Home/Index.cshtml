@@ -1,0 +1,43 @@
+﻿@model IndexVM
+
+<h1>Cats</h1>
+<table>
+    @foreach (var cat in Model.ListCatVMs)
+    {
+        <tr>
+            <td><a asp-controller="Home"
+                   asp-action="Details"
+                   asp-route-id="@cat.Id">@cat.Name</a></td>
+            @if (cat.IsDangerous)
+                {
+                <td style="color:red;">OBS fearless</td>
+            }
+            <td><a asp-controller="home" 
+                   asp-action="RemoveCat" 
+                   asp-route-id="@cat.Id">Remove</a></td>
+        </tr>
+    }
+
+</table>
+<a asp-controller="Home" asp-action="AddCat">Add new cat</a>
+<br />
+<h1>New Cat</h1>
+<form asp-controller="Home" asp-action="AddCat">
+    <label asp-for="AddCatVM.Name"></label>
+    <br />
+    <input asp-for="AddCatVM.Name" />
+    <span asp-validation-for="AddCatVM.Name"></span>
+    <br />
+    <label asp-for="AddCatVM.Weight"></label>
+    <br />
+    <input asp-for="AddCatVM.Weight" />
+    <span asp-validation-for="AddCatVM.Weight"></span>
+    <br />
+    <label asp-for="AddCatVM.SelectedTemperament"></label>
+    <br />
+    <select asp-for="AddCatVM.SelectedTemperament"
+            asp-items="Model.AddCatVM.TemperamentItems"></select>
+    <span asp-validation-for="AddCatVM.SelectedTemperament"></span>
+    <br />
+    <input type="submit" value="Add" />
+</form>

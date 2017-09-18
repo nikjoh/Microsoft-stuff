@@ -1,0 +1,15 @@
+﻿@model DetailsCatVM
+
+<h1>Details</h1>
+<table>
+    <tr>
+        <td>Name</td>
+        <td>Weight</td>
+        <td>Temper</td>
+    </tr>
+    <tr>
+        <td>@Model.Name</td>
+        <td>@Model.Weight</td>
+        <td>@Model.Temper.ToString()</td>
+    </tr>
+</table>

@@ -1,0 +1,5 @@
+C:\Users\Administrator\Source\Repos\RetroChatServer\RetroChatDB\bin\Release\RetroChatDB.dacpac
+C:\Users\Administrator\Source\Repos\RetroChatServer\RetroChatDB\bin\Release\RetroChatDB.dll
+C:\Users\Administrator\Source\Repos\RetroChatServer\RetroChatDB\bin\Release\RetroChatDB.pdb
+C:\Users\Administrator\Source\Repos\RetroChatServer\RetroChatDB\obj\Release\RetroChatDB.dll
+C:\Users\Administrator\Source\Repos\RetroChatServer\RetroChatDB\obj\Release\RetroChatDB.pdb

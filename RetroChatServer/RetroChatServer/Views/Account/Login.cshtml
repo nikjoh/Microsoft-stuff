@@ -1,0 +1,25 @@
+﻿@model LoginVM
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="login">
+    <form asp-controller="Account" asp-action="Login">
+        <label asp-for="UserName"></label>
+        <br />
+        <input type="text" asp-for="UserName" />
+        <span asp-validation-for="UserName"></span>
+        <br />
+        <label asp-for="Password"></label>
+        <br />
+        <input type="text" asp-for="Password" />
+        <span asp-validation-for="Password"></span>
+        <br />
+        <label asp-for="RememberMe"></label>
+        <input type="checkbox" asp-for="RememberMe" />
+        <span asp-validation-for="RememberMe"></span>
+        <br />
+        <input type="submit" value="Login" />
+    </form>
+
+</div>

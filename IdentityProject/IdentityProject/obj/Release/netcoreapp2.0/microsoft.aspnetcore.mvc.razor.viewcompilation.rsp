@@ -1,0 +1,10 @@
+C:\Users\Administrator\Source\Repos\IdentityProject\IdentityProject
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=IdentityProject
+--content-root=C:\Users\Administrator\Source\Repos\IdentityProject\IdentityProject
+--file=C:\Users\Administrator\Source\Repos\IdentityProject\IdentityProject\Views\Account\Login.cshtml
+--file=C:\Users\Administrator\Source\Repos\IdentityProject\IdentityProject\Views\Account\Register.cshtml
+--file=C:\Users\Administrator\Source\Repos\IdentityProject\IdentityProject\Views\Members\Index.cshtml
+--file=C:\Users\Administrator\Source\Repos\IdentityProject\IdentityProject\Views\Shared\_Layout.cshtml
+--file=C:\Users\Administrator\Source\Repos\IdentityProject\IdentityProject\Views\_ViewImports.cshtml
+--file=C:\Users\Administrator\Source\Repos\IdentityProject\IdentityProject\Views\_ViewStart.cshtml

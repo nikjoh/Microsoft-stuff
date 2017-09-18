@@ -1,0 +1,5 @@
+C:\Users\Administrator\Source\Repos\CatShelter\CatProjectDB\bin\Debug\CatProjectDB.dacpac
+C:\Users\Administrator\Source\Repos\CatShelter\CatProjectDB\bin\Debug\CatProjectDB.dll
+C:\Users\Administrator\Source\Repos\CatShelter\CatProjectDB\bin\Debug\CatProjectDB.pdb
+C:\Users\Administrator\Source\Repos\CatShelter\CatProjectDB\obj\Debug\CatProjectDB.dll
+C:\Users\Administrator\Source\Repos\CatShelter\CatProjectDB\obj\Debug\CatProjectDB.pdb

@@ -1,0 +1,11 @@
+C:\Users\Administrator\Source\Repos\JqueryProject\JqueryProject\bin\Debug\netcoreapp2.0\JqueryProject.deps.json
+C:\Users\Administrator\Source\Repos\JqueryProject\JqueryProject\bin\Debug\netcoreapp2.0\JqueryProject.runtimeconfig.json
+C:\Users\Administrator\Source\Repos\JqueryProject\JqueryProject\bin\Debug\netcoreapp2.0\JqueryProject.runtimeconfig.dev.json
+C:\Users\Administrator\Source\Repos\JqueryProject\JqueryProject\bin\Debug\netcoreapp2.0\JqueryProject.dll
+C:\Users\Administrator\Source\Repos\JqueryProject\JqueryProject\bin\Debug\netcoreapp2.0\JqueryProject.pdb
+C:\Users\Administrator\Source\Repos\JqueryProject\JqueryProject\obj\Debug\netcoreapp2.0\JqueryProject.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\JqueryProject\JqueryProject\obj\Debug\netcoreapp2.0\JqueryProject.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\JqueryProject\JqueryProject\obj\Debug\netcoreapp2.0\JqueryProject.AssemblyInfoInputs.cache
+C:\Users\Administrator\Source\Repos\JqueryProject\JqueryProject\obj\Debug\netcoreapp2.0\JqueryProject.AssemblyInfo.cs
+C:\Users\Administrator\Source\Repos\JqueryProject\JqueryProject\obj\Debug\netcoreapp2.0\JqueryProject.dll
+C:\Users\Administrator\Source\Repos\JqueryProject\JqueryProject\obj\Debug\netcoreapp2.0\JqueryProject.pdb

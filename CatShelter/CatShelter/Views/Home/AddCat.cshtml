@@ -1,0 +1,27 @@
+﻿@model AddCatVM
+
+<h1>Add Cat</h1>
+<form asp-controller="Home" asp-action="AddCat">
+    <label asp-for="Name"></label>
+    <br />
+    <input asp-for="Name" />
+    <span asp-validation-for="Name"></span>
+    <br />
+    <label asp-for="Weight"></label>
+    <br />
+    <input asp-for="Weight" />
+    <span asp-validation-for="Weight"></span>
+    <br />
+    <label asp-for="SelectedTemperament"></label>
+    <br />
+    <select asp-for="SelectedTemperament"
+            asp-items="Model.TemperamentItems"></select>
+    <span asp-validation-for="SelectedTemperament"></span>
+    <br />
+    <input type="submit" value="Add" />
+</form>
+@section Scripts {
+    <script src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.14.0/jquery.validate.min.js"></script>
+    <script src="https://ajax.aspnetcdn.com/ajax/jquery.validation.unobtrusive/3.2.6/jquery.validate.unobtrusive.min.js"></script>
+
+}

@@ -1,0 +1,11 @@
+C:\Users\Administrator\Source\Repos\IdentityProject\IdentityProject\bin\Release\netcoreapp2.0\IdentityProject.deps.json
+C:\Users\Administrator\Source\Repos\IdentityProject\IdentityProject\bin\Release\netcoreapp2.0\IdentityProject.runtimeconfig.json
+C:\Users\Administrator\Source\Repos\IdentityProject\IdentityProject\bin\Release\netcoreapp2.0\IdentityProject.runtimeconfig.dev.json
+C:\Users\Administrator\Source\Repos\IdentityProject\IdentityProject\bin\Release\netcoreapp2.0\IdentityProject.dll
+C:\Users\Administrator\Source\Repos\IdentityProject\IdentityProject\bin\Release\netcoreapp2.0\IdentityProject.pdb
+C:\Users\Administrator\Source\Repos\IdentityProject\IdentityProject\obj\Release\netcoreapp2.0\IdentityProject.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\IdentityProject\IdentityProject\obj\Release\netcoreapp2.0\IdentityProject.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\IdentityProject\IdentityProject\obj\Release\netcoreapp2.0\IdentityProject.AssemblyInfoInputs.cache
+C:\Users\Administrator\Source\Repos\IdentityProject\IdentityProject\obj\Release\netcoreapp2.0\IdentityProject.AssemblyInfo.cs
+C:\Users\Administrator\Source\Repos\IdentityProject\IdentityProject\obj\Release\netcoreapp2.0\IdentityProject.dll
+C:\Users\Administrator\Source\Repos\IdentityProject\IdentityProject\obj\Release\netcoreapp2.0\IdentityProject.pdb

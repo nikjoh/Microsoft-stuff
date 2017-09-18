@@ -1,0 +1,11 @@
+C:\Users\Administrator\Source\Repos\CatShelter\CatShelter\bin\Debug\netcoreapp2.0\CatShelter.deps.json
+C:\Users\Administrator\Source\Repos\CatShelter\CatShelter\bin\Debug\netcoreapp2.0\CatShelter.runtimeconfig.json
+C:\Users\Administrator\Source\Repos\CatShelter\CatShelter\bin\Debug\netcoreapp2.0\CatShelter.runtimeconfig.dev.json
+C:\Users\Administrator\Source\Repos\CatShelter\CatShelter\bin\Debug\netcoreapp2.0\CatShelter.dll
+C:\Users\Administrator\Source\Repos\CatShelter\CatShelter\bin\Debug\netcoreapp2.0\CatShelter.pdb
+C:\Users\Administrator\Source\Repos\CatShelter\CatShelter\obj\Debug\netcoreapp2.0\CatShelter.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\CatShelter\CatShelter\obj\Debug\netcoreapp2.0\CatShelter.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\CatShelter\CatShelter\obj\Debug\netcoreapp2.0\CatShelter.AssemblyInfoInputs.cache
+C:\Users\Administrator\Source\Repos\CatShelter\CatShelter\obj\Debug\netcoreapp2.0\CatShelter.AssemblyInfo.cs
+C:\Users\Administrator\Source\Repos\CatShelter\CatShelter\obj\Debug\netcoreapp2.0\CatShelter.dll
+C:\Users\Administrator\Source\Repos\CatShelter\CatShelter\obj\Debug\netcoreapp2.0\CatShelter.pdb

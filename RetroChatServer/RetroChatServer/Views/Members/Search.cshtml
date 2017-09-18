@@ -1,0 +1,15 @@
+﻿@{
+    ViewBag.Title = "Search";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="search">
+    <div class="search-info">
+        <input type="text" placeholder="search for user" ng-model="search" />
+        <div ng-repeat="user in users | filter: search" ng-show="search">
+            <div class="search-user" ng-click="setUser(user.ID)">
+                <div class="search-result-img"><img ng-src="{{user.Image}}" /></div>
+                <div class="label">{{user.UserName}}</div>
+            </div>
+        </div>
+    </div>
+</div>

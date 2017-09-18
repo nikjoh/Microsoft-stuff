@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/css/style.css" rel="stylesheet" />
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <div class="content">
+        <div class="header">
+            <div class="header-box" id="header-chat">
+
+                <a ng-href="chat"><div class="chat-link"></div></a>
+
+            </div>
+            <div class="header-box">
+                <div class="label">Retro-Chat</div>
+            </div>
+            <div class="header-box">
+                <div class="button" id="header-logout">
+                    <input class="logout-button" type="button" id="logout-button" value="Logout" />
+                </div>
+
+            </div>
+        </div>
+
+        <div class="main">
+            @RenderBody()
+        </div>
+        <div class="footer">
+            <div class="menu" id="footer-menu">
+
+                <div class="button">
+                    <a asp-controller="Members" asp-action="Search"><div class="search-link"></div></a>
+                </div>
+                <div class="button">
+                    <a asp-controller="Members" asp-action="Create"><div class="create-link"></div></a>
+                </div>
+                <div class="button">
+                    <a asp-controller="Members" asp-action="Index"><div class="home-link"></div></a>
+                </div>
+
+            </div>
+        </div>
+        <div id="loading"></div>
+    </div>
+    <script src="~/js/jquery-3.2.1.min.js"></script>
+    <script src="~/js/code.js"></script>
+    @RenderSection("scripts", false)
+</body>
+</html> 
